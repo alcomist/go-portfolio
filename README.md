@@ -4,11 +4,7 @@
 
 그동안 작업해본 GO 프로젝트 구조 및 코드 모음입니다.
 
-이 프로젝트는 포트폴리오 용으로 복제 및 사용에 자유롭습니다.
-
-저에게 대해서 더 알고 싶으시면 아래 링크를 참고하시기 바랍니다.
 * [Github](http://github.com/alcomist)
-* [Baekjoon Online Judge](https://www.acmicpc.net/user/chankipapa)
 
 ## Go Directories
 
